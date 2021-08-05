@@ -1,4 +1,4 @@
-package com.chengzw.wordcount;
+package com.chengzw;
 
 import org.apache.pulsar.functions.api.Context;
 import org.apache.pulsar.functions.api.Function;
